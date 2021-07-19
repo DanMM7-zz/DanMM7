@@ -4,12 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...My Portfolio Website
-- 🌱 I’m currently learning ...Python
-- 👯 I’m looking to collaborate on ...Python
+- 🔭 I’m currently working on ...Clients project
+- 🌱 I’m currently learning ... Robotics
+- 👯 I’m looking to collaborate on ...Python & C++
 - 🤔 I’m looking for help with ...Robotics
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Youtube hannel](https://dan.videos)
+- 📫 How to reach me: ... mail: dmalengela@yahoo.com
 - 😄 Pronouns: ...DanMM
 - ⚡ Fun fact: ...I play 4 musical instruments
 -->
